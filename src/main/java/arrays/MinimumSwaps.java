@@ -11,7 +11,7 @@ Find the minimum number of swaps required to sort the array in ascending order.
 input  A = [1, 2, 3, 4, 0]  -> output 4
  If you swap (1, 2) -> (2, 3) -> (4, 0) -> (3, 0). You will get a sorted array.
  You cannot sort it with lesser swaps.
-adding temp commit for, eclipse
+
 */
 public class MinimumSwaps {
     public static void main(String[] args) {
